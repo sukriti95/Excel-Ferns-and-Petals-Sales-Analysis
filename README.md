@@ -23,7 +23,7 @@ Birthdays and Anniversaries generate the highest sales revenue.
 
 Other occasions, including Diwali, Holi, Raksha Bandhan, and Valentine’s Day, also contribute significantly but with varied revenue levels.
 
-##### Revenue by Category:
+#### Revenue by Category:
 
 Cakes, soft toys, and sweets are the leading product categories in terms of revenue.
 
@@ -39,17 +39,17 @@ March, August, and December witness the highest revenue generation.
 
 The months of May and June show a significant dip in sales, requiring further analysis.
 
-####Top 5 Products by Revenue:
+#### Top 5 Products by Revenue:
 
 Magnum Set and Quia Gift are the best-performing products, followed closely by Deserunt Box, Dolores Gift, and Harum Pack.
 
-####Top 10 Cities by Orders:
+#### Top 10 Cities by Orders:
 
 Cities like Imphal, Kaili, and Gunataka generate the highest number of orders.
 
 The remaining cities, including Bhopana, Blighnagar, and Dhubari, also contribute significantly.
 
-Recommendations:
+### Recommendations:
 
 Boost Promotions During Low Sales Months: Implement targeted marketing campaigns in May and June to drive sales.
 
@@ -61,6 +61,6 @@ City-Specific Strategies: Leverage the high order volume in top-performing citie
 
 Time-Based Promotions: Introduce time-limited discounts and flash sales during peak shopping hours to maximize revenue.
 
-#### Conclusion:
+### Conclusion:
 The analysis highlights strong revenue performance across key occasions and product categories. While sales remain strong in specific months and cities, optimizing delivery times and leveraging strategic marketing efforts can significantly enhance profitability. Implementing data-driven strategies based on these insights will drive sustainable business growth and improve customer engagement.
 
